@@ -1,0 +1,26 @@
+ <IfModule mod_rewrite.c>
+
+        RewriteEngine On
+        RewriteBase /siabanacayy/
+
+        RewriteCond %{REQUEST_URI} ^system.*
+        RewriteRule ^(.*)$ /siabanacayy/index.php?/$1 [L]
+
+        RewriteCond %{REQUEST_URI} ^application.*
+        RewriteRule ^(.*)$ /siabanacayy/index.php?/$1 [L]
+
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^(.*)$ /siabanacayy/index.php?/$1 [L]
+
+    ##### rewrite exceptions
+        RewriteCond $1 !^(index.php|assets|css|js|img|robots.txt)
+        RewriteRule ^(.*)$ /siabanacayy/index.php/$1 [L]
+
+    </IfModule>
+
+    <IfModule !mod_rewrite.c>
+        ErrorDocument 404 /siabanacayy/index.php
+    </IfModule>  
+
+

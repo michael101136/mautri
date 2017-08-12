@@ -1,0 +1,406 @@
+
+			<div class="content">
+				
+				<!-- BEGIN .wrapper -->
+				<div class="wrapper">
+					
+					<div class="slider">
+						<div id="slider">
+							<img src="<?php echo base_url(); ?>assets/images/photos/image-1.jpg" alt="<h2><a href='post.html'>Recteque periculis vel suas docendi oportere vix</a></h2>Nec natum illum et, recteque periculis vel ea, suas docendi oportere vix ea. Eam ea facer falli dicant. Ne mei agam adhuc oblique, alia novum voluptua ne has, id accusata iudicabit suscipiantur eum. Eos dictas posidonium an, id quando volutpat sed." />
+							<img src="<?php echo base_url(); ?>assets/images/photos/image-2.jpg" alt="" />
+							<img src="<?php echo base_url(); ?>assets/images/photos/image-3.jpg" alt="" />
+							<img src="<?php echo base_url(); ?>assets/images/photos/image-4.jpg" alt="" />
+							<img src="<?php echo base_url(); ?>assets/images/photos/image-5.jpg" alt="" />
+						</div>
+
+						<div id="navigation"></div>
+
+						<div id="control"></div>
+					</div>
+					
+					<div class="tripple-articles">
+						<div>
+							<h2><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
+							<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-6.jpg" alt="" title="" /></a>
+						</div>
+						<div>
+							<h2><a href="post.html">Per at duis praesent, at rebum tation definitionem sea</a></h2>
+							<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-7.jpg" alt="" title="" /></a>
+						</div>
+						<div>
+							<h2><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
+							<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-8.jpg" alt="" title="" /></a>
+						</div>
+					</div>
+					
+					<div class="content-holder">
+						<div class="main-content left">
+							
+							<div class="article-block">
+								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-9.jpg" alt="" title="" /></a>
+								<div class="article-small-image">
+									<h2><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
+									<div class="article-icons">
+										<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
+									</div>
+									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
+									<div class="social-likes">
+										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
+										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
+										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
+									</div>
+									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+								</div>
+							</div>
+							
+							<div class="article-block article-big-thumb">
+								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-10.jpg" alt="" title="" /></a>
+								<div class="article-big-image">
+									<div class="featured-article-title">
+										<h2><span class="title-marker">Featured</span><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
+										<div class="article-icons">
+											<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
+										</div>
+									</div>
+									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
+									<div class="social-likes">
+										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
+										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
+										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
+									</div>
+									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+								</div>
+							</div>
+							
+							<div class="article-block">
+								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-11.jpg" alt="" title="" /></a>
+								<div class="article-small-image">
+									<h2><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
+									<div class="article-icons">
+										<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
+									</div>
+									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
+									<div class="social-likes">
+										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
+										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
+										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
+									</div>
+									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+								</div>
+							</div>
+							
+							<div class="article-block">
+								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-12.jpg" alt="" title="" /></a>
+								<div class="article-small-image">
+									<h2><a href="post.html">Omnes euripidis ut eam, dolorem partiendo mei cu ex nulla tantas ius</a></h2>
+									<div class="article-icons">
+										<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
+									</div>
+									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
+									<div class="social-likes">
+										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
+										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
+										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
+									</div>
+									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+								</div>
+							</div>
+							
+							<div class="article-block">
+								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-13.jpg" alt="" title="" /></a>
+								<div class="article-small-image">
+									<h2><a href="post.html">Ubique luptatum et est eum ei dicant graecis</a></h2>
+									<div class="article-icons">
+										<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
+									</div>
+									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
+									<div class="social-likes">
+										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
+										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
+										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
+									</div>
+									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+								</div>
+							</div>
+							
+							<div class="article-video-block">
+								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#9654;</span>Play Video</span><img src="<?php echo base_url(); ?>assets/images/photos/image-14.jpg" alt="" title="" /></a>
+								<div class="article-big-image">
+									<div class="featured-article-title">
+										<h2><span class="title-marker-video">Video</span><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
+										<div class="article-icons">
+											<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
+										</div>
+									</div>
+									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
+									<div class="social-likes">
+										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
+										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
+										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
+									</div>
+									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+									<div class="clear-float"></div>
+								</div>
+							</div>
+							
+							<div class="advert-block">
+								<div class="banner468x60">
+									<a href="#"><img src="<?php echo base_url(); ?>assets/images/no-banner-468x60.jpg" alt="" title="" /></a>
+								</div>
+								<a href="contact.html" class="sponsored-advert"><span class="icon-text">&#9652;</span>SPONSORED ADVERT<span class="icon-text">&#9652;</span></a>
+							</div>
+							
+							<div class="article-block">
+								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-15.jpg" alt="" title="" /></a>
+								<div class="article-small-image">
+									<h2><a href="post.html">Ubique luptatum et est eum ei dicant graecis</a></h2>
+									<div class="article-icons">
+										<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
+									</div>
+									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
+									<div class="social-likes">
+										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
+										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
+										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
+									</div>
+									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+								</div>
+							</div>
+							
+							<div class="pager">
+								<a class="left"><span class="icon-text">&#59229;</span><font>Prev</font></a>
+								<a href="#" class="right"><font>Next</font><span class="icon-text">&#59230;</span></a>
+								<div class="paginator-block">
+									<div><a href="#top">TOP</a><a href="index-2.html">HOME</a></div>
+									<div><a href="#rss">SUBSCRIBE</a></div>
+								</div>
+							</div>
+							
+						</div>
+						
+						<div class="sidebar-content right">
+							<div class="panel">
+								<div>
+									<div class="banner300x600">
+										<a href="#"><img src="<?php echo base_url(); ?>assets/images/no-banner-300x600.jpg" alt="" title="" /></a>
+									</div>
+									<a href="contact.html" class="sponsored-advert"><span class="icon-text">&#9652;</span>SPONSORED ADVERT<span class="icon-text">&#9652;</span></a>
+								</div>
+							</div>
+							
+							<div class="panel">
+								<div class="fadein">
+									<h2>Popular Articles</h2>
+									<div>
+										<div class="right-top-panel">
+											<a href="javascript:void(0);" id="sidebar-icon-popular" class="icon-text active">&#9733;</a>
+											<a href="javascript:void(0);" id="sidebar-icon-comments" class="icon-text icon-padding">&#59160;</a>
+										</div>
+										
+										<div id="sidebar-panel-popular">
+											
+											<div class="sidebar-article-big">
+												<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-16.jpg" alt="" title="" /></a>
+												<h3><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h3>
+												<p>Nostrum omittam nec an. At melius periculis cum, sed ad vis oporteat, at invidunt maiestatis delicatissimi qui. Quando altera eos ex, mei an moderatius disputando. Ius cu dicunt explicari dissentias, commune praesent imperdiet sea cu...</p>
+												<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+											</div>
+											
+											<div class="sidebar-br-line"></div>
+											
+											<div class="sidebar-article-big">
+												<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-17.jpg" alt="" title="" /></a>
+												<h3><a href="post.html">Erat soluta sit ut, alia commune ad pro consul vocibus adipiscing ius ex</a></h3>
+												<p>Eros laudem mollis ad usu, pri exerci sententiae ex, ius ornatus mediocrem cu. Ei eripuit efficiendi instructior nam, praesent referrentur ea eum. Ad quem alia iisque mea...</p>
+												<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+											</div>
+											
+										</div>
+										
+										<div id="sidebar-panel-comments" style="display:none;">
+										
+											<div class="sidebar-comment">
+												<span class="image-border left"><img src="<?php echo base_url(); ?>assets/images/no-avatar-60x60.jpg" alt="" title="" /></span>
+												<div class="comment-content">
+													<h3><a href="#">Elnora Ried</a></h3>
+													<p>Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum.</p>
+													<a href="post.html#comments" class="read-more">VIEW ARTICLE<span class="icon-text">&#10150;</span></a>
+												</div>
+											</div>
+											
+											<div class="sidebar-br-line"></div>
+											
+											<div class="sidebar-comment">
+												<span class="image-border left"><img src="<?php echo base_url(); ?>assets/images/no-avatar-60x60.jpg" alt="" title="" /></span>
+												<div class="comment-content">
+													<h3>Orange-Themes</h3>
+													<p>Nostrum omittam nec an. At melius periculis cum, sed ad vis oporteat, at invidunt maietis delicatissimi qui. Quando altera eos ex, mei moderatius disputando.</p>
+													<a href="post.html#comments" class="read-more">VIEW ARTICLE<span class="icon-text">&#10150;</span></a>
+												</div>
+											</div>
+											
+											<div class="sidebar-br-line"></div>
+											
+											<div class="sidebar-comment">
+												<span class="image-border left"><img src="<?php echo base_url(); ?>assets/images/no-avatar-60x60.jpg" alt="" title="" /></span>
+												<div class="comment-content">
+													<h3><a href="#">Stanley Abshire</a></h3>
+													<p>His cu dicat fuisset, ut nam dicit mnesarchum reformidans. Nulla liber usu cu, saperet nostrum mel id.</p>
+													<a href="post.html#comments" class="read-more">VIEW ARTICLE<span class="icon-text">&#10150;</span></a>
+												</div>
+											</div>
+											
+											<div class="sidebar-br-line"></div>
+											
+											<div class="sidebar-comment">
+												<span class="image-border left"><img src="<?php echo base_url(); ?>assets/images/no-avatar-60x60.jpg" alt="" title="" /></span>
+												<div class="comment-content">
+													<h3><a href="#">Vincent Showalter</a></h3>
+													<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in.</p>
+													<a href="post.html#comments" class="read-more">VIEW ARTICLE<span class="icon-text">&#10150;</span></a>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="panel">
+								<div>
+									<div class="banner300x250">
+										<a href="#"><img src="<?php echo base_url(); ?>assets/images/no-banner-300x250.jpg" alt="" title="" /></a>
+									</div>
+									<a href="contact.html" class="sponsored-advert"><span class="icon-text">&#9652;</span>SPONSORED ADVERT<span class="icon-text">&#9652;</span></a>
+								</div>
+							</div>
+							
+							<div class="panel">
+								<div class="fadein">
+									<h2>Recent Articles</h2>
+									<div>
+										<div class="right-top-panel">
+											<a href="category.html">view all</a>
+										</div>
+										<div class="sidebar-article-small">
+											<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read More</span><img src="<?php echo base_url(); ?>assets/images/photos/image-18.jpg" alt="" title="" /></a>
+											<h3><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h3>
+											<p>Nostrum omittam nec an. At melius periculis, sed ad oporteat, invidunt maiestatis delicatissimi qui. Quando altera eos ex, mei an moderatius disputando. Ius cu dicunt explicari dissentias, commune praesent imperdiet sea cu...</p>
+											<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+										</div>
+										<div class="sidebar-br-line"></div>
+										<div class="sidebar-article-big">
+											<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-17.jpg" alt="" title="" /></a>
+											<h3><a href="post.html">Erat soluta sit ut, alia commune ad pro consul vocibus adipiscing ius ex</a></h3>
+											<p>Eros laudem mollis ad usu, pri exerci sententiae ex, ius ornatus mediocrem cu. Ei eripuit efficiendi instructior nam, praesent referrentur ea eum. Ad quem alia iisque mea...</p>
+											<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+										</div>
+										<div class="sidebar-br-line"></div>
+										<div class="sidebar-article-big">
+											<h3><a href="post.html">Cu sumo labore offendit eum</a></h3>
+											<p>Eros laudem mollis ad usu, pri exerci sententiae ex, ius ornatus mediocrem cu. Ei eripuit efficiendi instructior nam, praesent referrentur ea eum. Ad quem alia iisque mea...</p>
+											<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="panel">
+								<div class="fadein">
+									<h2>Latest Photo Galleries</h2>
+									<div>
+										<div class="right-top-panel">
+											<a href="photo-gallery.html">view all</a>
+										</div>
+										
+										<div class="sidebar-gallery">
+											<a href="photo-gallery-single.html" class="image-border image-hover left light-show"><span class="image-overlay"><span class="icon-text icon-alone">&#128269;</span></span><img src="<?php echo base_url(); ?>assets/images/photos/image-19.jpg" alt="" title="" /></a>
+											<div class="gallery-content">
+												<h3><a href="photo-gallery-single.html">Minimum at mea an ven</a></h3>
+												<p>Nostrum omittam nec an. At melius perilis cum, sed ad vis oporteat, at invidunt maiestatis delicatissimi qui.</p>
+												<a href="photo-gallery-single.html" class="read-more">VIEW GALLERY<span class="icon-text">&#10150;</span></a>
+											</div>
+										</div>
+										
+										<div class="sidebar-br-line"></div>
+										
+										<div class="sidebar-gallery">
+											<a href="photo-gallery-single.html" class="image-border image-hover left light-show"><span class="image-overlay"><span class="icon-text icon-alone">&#128269;</span></span><img src="<?php echo base_url(); ?>assets/images/photos/image-20.jpg" alt="" title="" /></a>
+											<div class="gallery-content">
+												<h3><a href="photo-gallery-single.html">Minimum at mea an ven</a></h3>
+												<p>Nostrum omittam nec an. At melius perilis cum, sed ad vis oporteat, at invidunt maiestatis delicatissimi qui.</p>
+												<a href="photo-gallery-single.html" class="read-more">VIEW GALLERY<span class="icon-text">&#10150;</span></a>
+											</div>
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							
+							<div class="panel">
+								<div class="fadein">
+									<h2>Our Mailing List</h2>
+									<div>
+										<p>Subscribe to our mailing list to get latest updates, news and great deals to our other WordPress themes!</p>
+										
+										<div class="error-box" style="display:block;">
+											<span class="icon-text left">&#9888;</span>
+											<h3>Error !</h3>
+											<span>You have successfully subscribed.</span>
+											<div class="clear-float"></div>
+										</div>
+										
+										<div class="success-box" style="display:block;">
+											<span class="icon-text left">&#10003;</span>
+											<h3>Success !</h3>
+											<span>You have successfully subscribed.</span>
+											<div class="clear-float"></div>
+										</div>
+										
+										<div class="loading-box" style="display:none;">
+											<img src="<?php echo base_url(); ?>assets/images/loading.gif" title="" alt="" class="left" />
+											<h3>Loading, Please Wait!</h3>
+											<span>This may take a second or two.</span>
+											<div class="clear-float"></div>
+										</div>
+										
+										<form class="subscribe-form" action="#" method="post">
+											<input type="text" value="" name="name" placeholder="Your Name" />
+											<input type="text" value="" name="email" placeholder="Your E-mail" />
+											<input type="submit" value="Subscribe" />
+										</form>
+										
+										<p><span class="icon-text">&#9888;</span>Your Information will not be shared with anyone !</p>
+									</div>
+								</div>
+							</div>
+							
+							<div class="panel">
+								<div class="fadein">
+									<h2>Tag Cloud</h2>
+									<div class="tagcloud">
+										<a href="category.html" class="tag-link-1" title="4 topics" style="font-size: 22pt;">Nostro propriae</a>
+										<a href="category.html" class="tag-link-2" title="3 topics" style="font-size: 2pt;">Philosophia in vim</a>
+										<a href="category.html" class="tag-link-3" title="3 topics" style="font-size: 2pt;">Disputando</a>
+										<a href="category.html" class="tag-link-4" title="3 topics" style="font-size: 2pt;">Partem</a>
+										<a href="category.html" class="tag-link-5" title="3 topics" style="font-size: 2pt;">Liberavisse</a>
+										<a href="category.html" class="tag-link-6" title="3 topics" style="font-size: 2pt;">Autem debet</a>
+										<a href="category.html" class="tag-link-7" title="3 topics" style="font-size: 2pt;">Definiebas consectetuer</a>
+										<a href="category.html" class="tag-link-8" title="3 topics" style="font-size: 2pt;">Nonumy everti instructior</a>
+										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Adversarium</a>
+										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Disputando</a>
+										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Partem</a>
+										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Liberavisse</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				<!-- END .wrapper -->
+				</div>
+				
+			<!-- BEGIN .content -->
+			</div>
+			
+			
