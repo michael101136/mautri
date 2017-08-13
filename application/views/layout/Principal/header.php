@@ -5,7 +5,7 @@
     
 <!-- Mirrored from bulteno.orange-themes.com/html/ by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 15 Feb 2013 01:37:01 GMT -->
 <head>
-        <title>Bulteno - Homepage</title>
+        <title>Radio-Mautri</title>
         <!-- Meta Tags -->
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="description" content="" />
@@ -134,12 +134,12 @@
                     <div class="logo-space">
                         
                         <div>
-                            <a href="index-2.html" class="logo">BULTENO</a>
+                            <a href="index-2.html" class="logo">MAUTRI</a>
                             <!--<a href="index.html" class="logo">
                                 <img src="images/logo-header.png" alt="" title="" />
                             </a>-->
                             
-                            <p>Bulteno in Esperanto language means "Newsletter"</p>
+                            <p>"MEDIO DE DIFUSIÒN MASIVA EN ESTA ENCANTADORA Y BELLA CIUDAD PRIMAVERAL"</p>
                             
                             <div class="clear-float"></div>
                         </div>
@@ -147,25 +147,18 @@
                     </div>
                     
                     <ul class="navi">
-                        <li><a href="index-2.html">Homepage</a></li>
-                        <li><a href="post.html"><span>Article</span></a>
+                        <li><a href="index-2.html">INICIO</a></li>
+                        <li><a href="post.html"><span>NOSOTROS</span></a>
                             <ul class="sub-menu">
                                 <li class="arrow">&nbsp;</li>
-                                <li><a href="post-without-comments.html">Article without Comments</a></li>
-                                <li><a href="post.html"><span>Article with Comments</span></a>
-                                    <ul class="sub-menu">
-                                        <li class="arrow">&nbsp;</li>
-                                        <li><a href="post.html">Article with Big Photo</a></li>
-                                        <li><a href="post-small-photo.html">Article with Small Photo</a></li>
-                                        <li><a href="post-without-photo.html">Article without Photo</a></li>
-                                    </ul>
-                                </li>
+                                <li><a href="<?php echo site_url('presentacion/index'); ?>">PRESENTACION</a></li>
+                                <li><a href="<?php echo site_url('MisionVision/index'); ?>">MISION Y VISIÓN</a></li>
                                 <li><a href="category.html">Article Category view</a></li>
                             </ul>
                         </li>
-                        <li><a href="photo-gallery.html">Photo Gallery</a></li>
+                        <li><a href="<?php echo site_url('galeria/index'); ?>">GALERÍA DE FOTOS</a></li>
                         <li><a href="shortcodes.html">Shortcodes</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="contact.html">CONTÁCTENOS</a></li>
                         <li class="search"><form action="http://bulteno.orange-themes.com/html/search.html" method="post"><input type="text" value="" placeholder="Search Something.." /><input type="submit" value="&#128269;" /></form></li>
                     </ul>
                     

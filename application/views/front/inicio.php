@@ -6,11 +6,11 @@
 					
 					<div class="slider">
 						<div id="slider">
-							<img src="<?php echo base_url(); ?>assets/images/photos/image-1.jpg" alt="<h2><a href='post.html'>Recteque periculis vel suas docendi oportere vix</a></h2>Nec natum illum et, recteque periculis vel ea, suas docendi oportere vix ea. Eam ea facer falli dicant. Ne mei agam adhuc oblique, alia novum voluptua ne has, id accusata iudicabit suscipiantur eum. Eos dictas posidonium an, id quando volutpat sed." />
+							<img src="<?php echo base_url(); ?>assets/images/photos/image-1.jpg" alt="<h2><a href='post.html'>RADIO MAUTRI</a></h2>Nec natum illum et, recteque periculis vel ea, suas docendi oportere vix ea. Eam ea facer falli dicant. Ne mei agam adhuc oblique, alia novum voluptua ne has, id accusata iudicabit suscipiantur eum. Eos dictas posidonium an, id quando volutpat sed." />
 							<img src="<?php echo base_url(); ?>assets/images/photos/image-2.jpg" alt="" />
 							<img src="<?php echo base_url(); ?>assets/images/photos/image-3.jpg" alt="" />
 							<img src="<?php echo base_url(); ?>assets/images/photos/image-4.jpg" alt="" />
-							<img src="<?php echo base_url(); ?>assets/images/photos/image-5.jpg" alt="" />
+							<img src="<?php echo base_url(); ?>assets/images/photos/image-5.png" alt="" />
 						</div>
 
 						<div id="navigation"></div>
@@ -337,63 +337,7 @@
 								</div>
 							</div>
 							
-							<div class="panel">
-								<div class="fadein">
-									<h2>Our Mailing List</h2>
-									<div>
-										<p>Subscribe to our mailing list to get latest updates, news and great deals to our other WordPress themes!</p>
-										
-										<div class="error-box" style="display:block;">
-											<span class="icon-text left">&#9888;</span>
-											<h3>Error !</h3>
-											<span>You have successfully subscribed.</span>
-											<div class="clear-float"></div>
-										</div>
-										
-										<div class="success-box" style="display:block;">
-											<span class="icon-text left">&#10003;</span>
-											<h3>Success !</h3>
-											<span>You have successfully subscribed.</span>
-											<div class="clear-float"></div>
-										</div>
-										
-										<div class="loading-box" style="display:none;">
-											<img src="<?php echo base_url(); ?>assets/images/loading.gif" title="" alt="" class="left" />
-											<h3>Loading, Please Wait!</h3>
-											<span>This may take a second or two.</span>
-											<div class="clear-float"></div>
-										</div>
-										
-										<form class="subscribe-form" action="#" method="post">
-											<input type="text" value="" name="name" placeholder="Your Name" />
-											<input type="text" value="" name="email" placeholder="Your E-mail" />
-											<input type="submit" value="Subscribe" />
-										</form>
-										
-										<p><span class="icon-text">&#9888;</span>Your Information will not be shared with anyone !</p>
-									</div>
-								</div>
-							</div>
-							
-							<div class="panel">
-								<div class="fadein">
-									<h2>Tag Cloud</h2>
-									<div class="tagcloud">
-										<a href="category.html" class="tag-link-1" title="4 topics" style="font-size: 22pt;">Nostro propriae</a>
-										<a href="category.html" class="tag-link-2" title="3 topics" style="font-size: 2pt;">Philosophia in vim</a>
-										<a href="category.html" class="tag-link-3" title="3 topics" style="font-size: 2pt;">Disputando</a>
-										<a href="category.html" class="tag-link-4" title="3 topics" style="font-size: 2pt;">Partem</a>
-										<a href="category.html" class="tag-link-5" title="3 topics" style="font-size: 2pt;">Liberavisse</a>
-										<a href="category.html" class="tag-link-6" title="3 topics" style="font-size: 2pt;">Autem debet</a>
-										<a href="category.html" class="tag-link-7" title="3 topics" style="font-size: 2pt;">Definiebas consectetuer</a>
-										<a href="category.html" class="tag-link-8" title="3 topics" style="font-size: 2pt;">Nonumy everti instructior</a>
-										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Adversarium</a>
-										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Disputando</a>
-										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Partem</a>
-										<a href="category.html" class="tag-link-9" title="3 topics" style="font-size: 2pt;">Liberavisse</a>
-									</div>
-								</div>
-							</div>
+				
 						</div>
 					</div>
 					
