@@ -17,8 +17,10 @@
 
                     <div class="row">
                         <div class="col-md-12">
-
-                            <!-- START DATATABLE EXPORT -->
+                             <button type="button" class="btn btn-success"  onclick="paginaAjaxDialogo(null, 'Registra nueva Imagen',null, base_url+'index.php/Imagenes/insertar', 'GET', null, null, false, true);">
+                                            <i class="fa fa-bars"></i>
+                                            Nueva
+                            </button>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                 </div>
