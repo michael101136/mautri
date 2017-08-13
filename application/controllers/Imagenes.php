@@ -45,6 +45,7 @@ class Imagenes extends CI_Controller {/* Mantenimiento de division funcional y g
                   if($this->Imagen_Model->insert($datos) == true)
                   {
                     echo "SE REGISTRO LA IMAGEN";
+                    redirect('Imagenes/Imagenes');
                   }
                   
                 }
