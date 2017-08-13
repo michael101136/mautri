@@ -37,8 +37,8 @@
                                             <tbody>
                                                 <?php foreach($listaImagen as $item ){ ?>
                                                     <tr>
-                                                        <td>
-                                                            <?=$item->nombre?>
+                                                        <td class="col-md-2">
+                                                            <img style="width:100px;height: 100px;" src="<?php echo base_url();?>/uploads/<?=$item->nombre?>"/>
                                                         </td>
                                                         <td>
                                                             <?=$item->descripcion?>

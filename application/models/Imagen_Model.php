@@ -14,6 +14,11 @@ class Imagen_Model extends CI_Model
 
         return $data->result();
     }
+    function insert($data)
+    {
+		$this->db->insert("imagen", $data);
+        return true;
+    }
 
     function eliminar($id)
     {

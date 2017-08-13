@@ -38,12 +38,18 @@ class Imagenes extends CI_Controller {/* Mantenimiento de division funcional y g
               else
               {
                 $descripcion=$this->input->post('Descripcionimegen');
-                if($this->Model_CarteraInversion->AddCartera($file_info['userfileImagenes'],$imegen)==false)
-                {
-                  echo "SE REGISTRO LA IMAGEN";
+                $datos = array(
+                  "nombre" => $this->upload->file_name,
+                  "descripcion" => $descripcion,
+                  );
+                  if($this->Imagen_Model->insert($datos) == true)
+                  {
+                    echo "SE REGISTRO LA IMAGEN";
+                  }
+                  
                 }
-              }                 
-          }     
+          }                 
+               
                   
       $this->load->view('admin/Imagenes/insertar');
    }

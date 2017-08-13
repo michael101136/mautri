@@ -1,4 +1,4 @@
-<form class="form-horizontal" id="form-addImagenes" action="<?php echo  base_url();?>index.php/Imagenes/insertar" method="POST">
+<form class="form-horizontal" id="form-addImagenes" action="<?php echo  base_url();?>index.php/Imagenes/insertar" enctype="multipart/form-data" method="POST">
 		
 			<h4 style="margin-bottom: 0px;">Imagenes</h4>
 			<hr style="margin: 2px;margin-bottom: 5px;">
