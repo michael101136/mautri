@@ -15,4 +15,9 @@ class Imagen_Model extends CI_Model
         return $data->result();
     }
 
+    function eliminar($id)
+    {
+        $eliminar=$this->db->query("delete from imagen where id='".$id."'");
+        return true;
+    }
 }

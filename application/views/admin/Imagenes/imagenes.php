@@ -42,7 +42,7 @@
                                                             <?=$item->descripcion?>
                                                         </td>
                                                         <td>
-                                                            <button type='button' class='eliminar btn btn-danger btn-xs' onclick=""><i class='fa fa-trash-o'></i></button>
+                                                            <button type='button' class='eliminar btn btn-danger btn-xs' onclick="eliminar(<?=$item->id?>)"><i class='fa fa-trash-o'></i></button>
                                                         </td>
                                                   </tr>
                                                 <?php } ?>
@@ -67,4 +67,32 @@ $(document).ready(function()
 			"language" : idioma_espanol
 		});
 	});
+
+function eliminar(id)
+    {
+        swal({
+                title: "Esta seguro que desea eliminar el presupuesto de ejecucion?",
+                text: "",
+                type: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#DD6B55",
+                confirmButtonText: "SI,Eliminar",
+                closeOnConfirm: false
+            },
+            function()
+            {
+                $.ajax({
+                        url:base_url+"index.php/Imagenes/eliminar",
+                        type:"POST",
+                        data:{id:id},
+                        success:function(respuesta)
+                        {
+                            
+                            swal("ELIMINADO!", "Se elimino correctamente la imagen.", "success");
+                            window.location.href='<?=base_url();?>index.php/Imagenes/Imagenes/';
+                            renderLoading();
+                        }
+                    });
+            });
+    }
 </script>
