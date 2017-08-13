@@ -38,13 +38,13 @@ class Login extends CI_Controller {/* Mantenimiento de division funcional y grup
 	 public function cerrar()
 	 {
 	  $this->session->sess_destroy();
-	  redirect('login', 'refresh');
+	  redirect('login/login', 'refresh');
 	 }
-	public function index()
+	public function login()
 	{
 	    if($this->session->userdata('login'))
 	    {
-	      redirect(site_url('Alquiler/'));
+	      redirect(site_url('Imagenes/Imagenes'));
 	    }
    			 else
 	    {

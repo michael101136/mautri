@@ -126,9 +126,14 @@
                                     <span>Per insolens indoctum te. Mea viderer deserunt adolescens in, sanctus docendi periculis pro.</span>
                                 </div>
                             </div>
+                            <div style="margin-left: 750px;">
+                              <a href="<?php echo site_url('Login/Login')?>">Login</a>  
+                            </div>
+                            
                         </div>
                         <a href="javascript:latestnews('left');" class="icon-text breaking-news-arrow">&#59225;</a>
                         <a href="javascript:latestnews('right');" class="icon-text breaking-news-arrow">&#59226;</a>
+
                     </div>
                     
                     <div class="logo-space">

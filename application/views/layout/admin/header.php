@@ -46,7 +46,7 @@
                 <!-- START X-NAVIGATION -->
                 <ul class="x-navigation">
                     <li class="xn-logo">
-                        <a href="index.html">SIAB</a>
+                        <a href="index.html">MAUTRI</a>
                         <a href="#" class="x-navigation-control"></a>
                     </li>
                     <li class="xn-profile">
@@ -58,7 +58,7 @@
                                 <img src="<?php echo base_url();?>assets/images/users/avatar.jpg" alt="John Doe"/>
                             </div>
                             <div class="profile-data">
-                                <div class="profile-data-name">Beneficencia </div>
+                                <div class="profile-data-name"> MAUTRI</div>
                                 <div class="profile-data-title">Usuario: <?= $this->session->userdata('tipo_usuario')?> </br>Nombre: <?= $this->session->userdata('name')?></div>
                             </div>
                             <div class="profile-controls">
@@ -67,45 +67,10 @@
                             </div>
                         </div>
                     </li>
-                    <li class="xn-title">SERVICIOS</li>
-
-
+                    <li class="xn-title">IMAGENES</li>
                     <li class="active">
-
-                        <a href="<?php echo site_url('Alquiler/'); ?>"><span class="fa fa-table"></span> <span class="xn-text">ALQUILER</span></a>
-
-                    </li>
-                    <li class="xn-openable">
-                        <a href="#"><span class="fa fa-bar-chart-o"></span> <span class="xn-text">REPORTES</span></a>
-                        <ul>
-                            <li><a href="<?php echo site_url('RNichosVencidos/generar');?>" target="_blank"><span class="xn-text">Nichos vencidos</span></a></li>
-                            <li><a href="<?php echo site_url('RNichosDisponibles/generar'); ?>" target="_blank"><span class="xn-text">Nichos Disponibles</span></a></li>
-                            <li><a href="<?php echo site_url('Caja/'); ?>"><span class="xn-text">Caja</span></a></li>
-                        </ul>
-                    </li>
-                    <li class="xn-title">CONFIGURAR PARAMETROS</li>
-                <?php if($this->session->userdata('tipo_usuario')=="Administrador") {?>
-                    <li class="xn-openable">
-                        <a href="#"><span class="fa fa-sitemap"></span> <span class="xn-text">MANTENIMIENTOS</span></a>
-                        <ul>
-                            <li class=""><a href="<?php echo site_url('Cuartel/'); ?>">Cuartel</a>
-                            </li>
-                             <li><a href="<?php echo site_url('Nicho/'); ?>"><span class="xn-text">Nichos</span></a></li>
-
-                        </ul>
-                    </li>
-                     <?php }?>
-                     <?php if($this->session->userdata('tipo_usuario')=="Administrador") {?>
-                    <li class="xn-openable">
-                        <a href="#"><span class="fa fa-sitemap"></span> <span class="xn-text">USUARIOS</span></a>
-                        <ul>
-                            <li class=""><a href="<?php echo site_url('Usuario/'); ?>">Usuarios</a>
-                            <!--<li class=""><a href="<?php echo site_url('gant/'); ?>">Gant</a>-->
-                            </li>
-
-                        </ul>
-                    </li>
-                    <?php }?>
+                        <a href="<?php echo site_url('Imagenes/Imagenes'); ?>"><span class="fa fa-table"></span> <span class="xn-text">IMAGENES</span></a>
+                    </li>     
 
                 </ul>
                 <!-- END X-NAVIGATION -->

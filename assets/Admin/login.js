@@ -12,7 +12,7 @@ function main(){
 					alert("error");
 				}
 				else{
-					window.location.href=base_url+"index.php/Alquiler/"
+					window.location.href=base_url+"index.php/login/login"
 				}
 			}
 		});
