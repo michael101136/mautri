@@ -6,11 +6,9 @@
 					
 					<div class="slider">
 						<div id="slider">
-							<img src="<?php echo base_url(); ?>assets/images/photos/image-1.jpg" alt="" />
-							<img src="<?php echo base_url(); ?>assets/images/photos/image-2.jpg" alt="" />
-							<img src="<?php echo base_url(); ?>assets/images/photos/image-3.jpg" alt="" />
-							<img src="<?php echo base_url(); ?>assets/images/photos/image-4.jpg" alt="" />
-							<img src="<?php echo base_url(); ?>assets/images/photos/image-5.png" alt="" />
+						    <?php foreach($listaImagen as $item ){ ?>
+                            <img  width="980" height="275" src="<?php echo base_url();?>/uploads/<?=$item->nombre?>"/>
+						 	<?php } ?>
 						</div>
 
 						<div id="navigation"></div>

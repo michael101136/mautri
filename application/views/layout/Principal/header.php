@@ -1,9 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- BEGIN html -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <!-- BEGIN head -->
-    
-<!-- Mirrored from bulteno.orange-themes.com/html/ by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 15 Feb 2013 01:37:01 GMT -->
+<!DOCTYPE html">
+<html>
 <head>
         <title>Radio-Mautri</title>
         <!-- Meta Tags -->
@@ -17,12 +13,6 @@
         <link type="text/css" rel="stylesheet" href="<?php echo base_url(); ?>assets/css/main-stylesheet.css" />
         <link type="text/css" rel="stylesheet" href="<?php echo base_url(); ?>assets/css/shortcode.css" />
         <link type="text/css" rel="stylesheet" href="<?php echo base_url(); ?>assets/css/fonts.css" />
-        <!--[if lte IE 8]>
-        <link type="text/css" rel="stylesheet" href="css/ie-transparecy.css" />
-        <![endif]-->
-        <link type="text/css" rel="stylesheet" href="css/color-select.css" />
-        <link type="text/css" id="style-responsive" rel="stylesheet" media="screen" href="<?php echo base_url(); ?>assets/css/responsive/desktop.css" />
-        <!-- Scripts -->
         <script type="text/javascript" src="<?php echo base_url(); ?>assets/jscript/jquery-1.7.2.min.js"></script>
         <script type="text/javascript">
             var iPhoneVertical = Array(null,320,"<?php echo base_url(); ?>assets/css/responsive/phoneverticald41d.css?"+Date());
@@ -70,60 +60,22 @@
     
         <!-- BEGIN .boxed -->
         <div class="boxed">
-            <!-- BEGIN #color-select -->
-            <div id="color-select">
-                <div id="picker"></div>
-                <div id="icon-brush"></div>
-                <a href="javascript:void(0);" class="width-changer">
-                    <font class="change-width-stretched">
-                        <span class="width-switcher">&#59204;</span>
-                        <b>Stretched Width</b>
-                        <span>Website is Stretched to Fit Whole Screen</span>
-                    </font>
-                    <font class="change-width-boxed" style="display:none;">
-                        <span class="width-switcher">&#59206;</span>
-                        <b>Boxed Width</b>
-                        <span>Website is Boxed &amp; Locked in Constant Width</span>
-                    </font>
-                </a>
-                <a href="javascript:void(0);" class="color-changer" id="bgcolor" style="display:none;">
-                    <span class="color-picker" style="background:#fff;" data-target="background">&nbsp;</span>
-                    <b>Background</b>
-                    <span>Background Color or Texture</span>
-                </a>
-                <a href="javascript:void(0);" class="color-changer">
-                    <span class="color-picker" style="background:#B71616;" data-target="scheme">&nbsp;</span>
-                    <b>Color Scheme</b>
-                    <span>Most of the Elements in Website</span>
-                </a>
-            <!-- END #color-select -->
-            </div>
-            
-            <!-- BEGIN .header -->
             <div class="header">
                 
                 <!-- BEGIN .wrapper -->
                 <div class="wrapper">
                     
                     <div class="breaking">
-                        <span class="index">Breaking News</span>
+                        <span class="index">Nuevas Música</span>
                         <div class="news">
                             <div>
                                 <div>
-                                    <a href="post.html" class="title">In est dico explicari duo cibo justo errem nam audire ponderum</a>
-                                    <span>Per insolens indoctum te. Mea viderer deserunt adolescens in, sanctus docendi periculis pro.</span>
+                                    <a href="post.html" class="title">Presentación</a>
+                                    <span>Bienvenidos a radio MAUTRI.</span>
                                 </div>
                                 <div>
-                                    <a href="post.html" class="title">In est dico explicari duo cibo justo errem nam audire ponderum</a>
-                                    <span>Per insolens indoctum te. Mea viderer deserunt adolescens in, sanctus docendi periculis pro.</span>
-                                </div>
-                                <div>
-                                    <a href="post.html" class="title">In est dico explicari duo cibo justo errem nam audire ponderum</a>
-                                    <span>Per insolens indoctum te. Mea viderer deserunt adolescens in, sanctus docendi periculis pro.</span>
-                                </div>
-                                <div>
-                                    <a href="post.html" class="title">In est dico explicari duo cibo justo errem nam audire ponderum</a>
-                                    <span>Per insolens indoctum te. Mea viderer deserunt adolescens in, sanctus docendi periculis pro.</span>
+                                    <a href="post.html" class="title">SANTUARIO NACIONAL DEL AMPAY</a>
+                                    <span>La visión de radio Mautri, la nueva red de Abancay, es ser la emisora más sintonizada con aceptación masiva de oyentes en la localidad, en el país.</span>
                                 </div>
                             </div>
                             <div style="margin-left: 750px;">
@@ -163,7 +115,7 @@
                         </li>
                         <li><a href="<?php echo site_url('galeria/index'); ?>">GALERÍA DE FOTOS</a></li>
                         <li><a href="">CONTÁCTENOS</a></li>
-                        <li class="search"><form action="http://bulteno.orange-themes.com/html/search.html" method="post"><input type="text" value="" placeholder="Search Something.." /><input type="submit" value="&#128269;" /></form></li>
+                        <li class="search"><form action="" method="post"><input type="text" value="" placeholder="Buscar" /><input type="submit" value="&#128269;" /></form></li>
                     </ul>
                     
                 <!-- END .wrapper -->

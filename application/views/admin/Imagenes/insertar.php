@@ -33,8 +33,12 @@
                 cache: false,
                 contentType:false,
                 processData:false,
+                beforeSend:function(){
+                	  renderLoading();
+                	  swal("Inserto", "Correctamente la imagen.", "success");
+                	},
                 success:function(resp){
-                 swal("",resp, "success");
+                 window.location.href='<?=base_url();?>index.php/Imagenes/Imagenes/';
                }
 
             });
