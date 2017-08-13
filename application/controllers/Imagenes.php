@@ -17,6 +17,36 @@ class Imagenes extends CI_Controller {/* Mantenimiento de division funcional y g
 		$this->load->view('admin/Imagenes/imagenes', ['listaImagen'=>$listaImagen]);
 		$this->load->view('layout/admin/footer');
 	}
+	   public  function insertar()
+   {
+       if($_POST)
+       {
+        $config['upload_path'] = './uploads/';
+        $config['allowed_types'] = 'gif|jpg|png';
+        $config['max_size'] = '2000';
+        $config['max_width'] = '2024';
+        $config['max_height'] = '2008';
+
+        $this->load->library('upload',$config);
+
+            if ( ! $this->upload->do_upload('userfileImagenes'))
+              {
+
+                $error="ERROR NO SE CARGO LA IMAGEN";
+                echo $error;
+              }
+              else
+              {
+                $descripcion=$this->input->post('Descripcionimegen');
+                if($this->Model_CarteraInversion->AddCartera($file_info['userfileImagenes'],$imegen)==false)
+                {
+                  echo "SE REGISTRO LA IMAGEN";
+                }
+              }                 
+          }     
+                  
+      $this->load->view('admin/Imagenes/insertar');
+   }
 
 	function eliminar()
     {
@@ -27,34 +57,12 @@ class Imagenes extends CI_Controller {/* Mantenimiento de division funcional y g
             echo json_encode($Data);
         }
     }  
-	public  function insertar()
-	{
-/*if($_POST)
-{
-$hdIdcategoria = $this->input->post('hdIdcategoria');
-$hdIdPasaje      = $this->input->post('hdIdPasaje');
-$nombre_cuartel  = $this->input->post('Cuartel');
-for ($i=0; $i <count($hdIdcategoria) ; $i++) { 
-$datas = array(
-"nombre_cuartel" =>$nombre_cuartel[$i],
-"id_categoria" =>$hdIdcategoria[$i],
-"id_pasaje" => $hdIdPasaje[$i],     
-);
-$this->Cuartel_model->AddCuartel($datas);
-}
-echo json_encode(['proceso' => 'Correcto', 'mensaje' => 'Dastos registrados correctamente.', 'nombre_cuartel' => $nombre_cuartel]);exit;
-}
-$categoria= $this->Cuartel_model->Get_Categoria();
-$pasajes= $this->Cuartel_model->Get_pasaje();
-//var_dump($pasajes);exit();
-$this->load->view('admin/Cuartel/insertar',['categoria' => $categoria ,'pasajes' => $pasajes]);*/
-}
-
-function _load_layout($template)
-{
-	$this->load->view('layout/admin/header');
-	$this->load->view($template);
-	$this->load->view('layout/admin/footer');
-}
+     function _load_layout($template)
+    {
+      $this->load->view('layout/admin/header');
+      $this->load->view($template);
+      $this->load->view('layout/admin/footer');
+    }
 
 }
+
