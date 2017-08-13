@@ -147,18 +147,17 @@
                     </div>
                     
                     <ul class="navi">
-                        <li><a href="index-2.html">INICIO</a></li>
-                        <li><a href="post.html"><span>NOSOTROS</span></a>
+                        <li><a href="<?php echo site_url('Inicio/'); ?>">INICIO</a></li>
+                        <li><a href=""><span>NOSOTROS</span></a>
                             <ul class="sub-menu">
                                 <li class="arrow">&nbsp;</li>
                                 <li><a href="<?php echo site_url('presentacion/index'); ?>">PRESENTACION</a></li>
                                 <li><a href="<?php echo site_url('MisionVision/index'); ?>">MISION Y VISIÓN</a></li>
-                                <li><a href="category.html">Article Category view</a></li>
+                                <li><a href="<?php echo site_url('Memoria/index'); ?>">MEMORIA</a></li>
                             </ul>
                         </li>
                         <li><a href="<?php echo site_url('galeria/index'); ?>">GALERÍA DE FOTOS</a></li>
-                        <li><a href="shortcodes.html">Shortcodes</a></li>
-                        <li><a href="contact.html">CONTÁCTENOS</a></li>
+                        <li><a href="">CONTÁCTENOS</a></li>
                         <li class="search"><form action="http://bulteno.orange-themes.com/html/search.html" method="post"><input type="text" value="" placeholder="Search Something.." /><input type="submit" value="&#128269;" /></form></li>
                     </ul>
                     
