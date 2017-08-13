@@ -39,17 +39,9 @@
 							<div class="article-block">
 								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-9.jpg" alt="" title="" /></a>
 								<div class="article-small-image">
-									<h2><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
-									<div class="article-icons">
-										<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
-									</div>
-									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
-									<div class="social-likes">
-										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
-										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
-										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
-									</div>
-									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
+									<h2><a href="post.html">Presentación</a></h2>
+			
+									<p>Bienvenidos a radio MAUTRI, la nueva red de Abancay. Agradecemos a nuestros oyentes y le damos la bienvenida a este nuevo	de Abancay Apurímac, también en nuestro país Perú y en todas partes del planeta vía online www.radiomautri.com de seguro estaremos satisfaciendo el entretenimiento musical con hermosas canciones y bellas melodías de los géneros musicales más destacados, pensando en las diferentes generaciones. Seremos aliados de la educación y cultura, aportaremos con la difusión de los valores y principios. Gracias por su preferencia de estar en nuestra sintonía. Alfonso Gamarra c. y Abel Triveño l. Les agradecemos, muchas gracias amigos.</p>
 								</div>
 							</div>
 							
@@ -62,43 +54,7 @@
 											
 										</div>
 									</div>
-									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
-									<div class="social-likes">
-										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
-										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
-										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
-									</div>
-									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
-								</div>
-							</div>
-							
-							<div class="article-block">
-								<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-11.jpg" alt="" title="" /></a>
-								<div class="article-small-image">
-									<h2><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h2>
-									<div class="article-icons">
-										<a href="category.html"><span class="icon-text">&#128100;</span>Orange-Themes</a><a href="post.html#comments"><span class="icon-text">&#59160;</span>4 Comments</a><span><span class="icon-text">&#128340;</span>11:12, 20.dec 2012</span>
-									</div>
-									<p>Omnes euripidis ut eam, dolorem partiendo mei cu. Ex nulla tantas ius, corrumpit hendrerit sadipscing eam in. Ubique luptatum et est, eum ei dicant graecis. Cu sumo labore offendit eum. Recteque qualisque eam no, an sint scriptorem nam. Pro atqui iisque impetus at, mei legendos instructior ei, at est nam illum reprimique at. Ex verear prompta mei, ea vim nonumy dictas meliore. Pri sumo iuvaret ea. Omnes euripidis mei cu...</p>
-									<div class="social-likes">
-										<div class="soc-button-facebook"><a href="#"><span class="icon-text">&#62220;</span>Like</a><span><span class="bullet">&nbsp;</span>8</span></div>
-										<div class="soc-button-twitter"><a href="#"><span class="icon-text">&#62217;</span>Tweet</a><span><span class="bullet">&nbsp;</span>14</span></div>
-										<div class="soc-button-pinterest"><a href="#"><span class="icon-text">&#62226;</span>Pin</a><span><span class="bullet">&nbsp;</span>23</span></div>
-									</div>
-									<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
-								</div>
-							</div>
-
-				
-				
-	
-							
-							<div class="pager">
-								<a class="left"><span class="icon-text">&#59229;</span><font>Prev</font></a>
-								<a href="#" class="right"><font>Next</font><span class="icon-text">&#59230;</span></a>
-								<div class="paginator-block">
-									<div><a href="#top">TOP</a><a href="index-2.html">HOME</a></div>
-									<div><a href="#rss">SUBSCRIBE</a></div>
+									<p> La visión de radio Mautri, la nueva red de Abancay, es ser la emisora más sintonizada con aceptación masiva de oyentes en la localidad, en el país y en el extranjero, vía online www.radiomautri.com brindar espacios con mucho agrado al público oyente, respetando las posiciones políticas y religiosas. Nuestro reto, en lo más breve, aumentar la audiencia y ser líder con la mejor sintonía.</p>
 								</div>
 							</div>
 							
@@ -129,15 +85,6 @@
 												<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-16.jpg" alt="" title="" /></a>
 												<h3><a href="post.html">Liber minimum at mea, an veniam lucilius</a></h3>
 												<p>Nostrum omittam nec an. At melius periculis cum, sed ad vis oporteat, at invidunt maiestatis delicatissimi qui. Quando altera eos ex, mei an moderatius disputando. Ius cu dicunt explicari dissentias, commune praesent imperdiet sea cu...</p>
-												<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
-											</div>
-											
-											<div class="sidebar-br-line"></div>
-											
-											<div class="sidebar-article-big">
-												<a href="post.html" class="image-border image-hover"><span class="image-overlay"><span class="icon-text">&#128269;</span>Read Full Article</span><img src="<?php echo base_url(); ?>assets/images/photos/image-17.jpg" alt="" title="" /></a>
-												<h3><a href="post.html">Erat soluta sit ut, alia commune ad pro consul vocibus adipiscing ius ex</a></h3>
-												<p>Eros laudem mollis ad usu, pri exerci sententiae ex, ius ornatus mediocrem cu. Ei eripuit efficiendi instructior nam, praesent referrentur ea eum. Ad quem alia iisque mea...</p>
 												<a href="post.html" class="read-more">READ MORE<span class="icon-text">&#10150;</span></a>
 											</div>
 											

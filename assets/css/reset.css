@@ -12,7 +12,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	border: 0;
 	outline: 0;
 	vertical-align: top;
-	background: transparent;
+	/*background-image: url("../images/fondo2.jpg");*/
 }
 a{vertical-align: baseline;}
 body {
