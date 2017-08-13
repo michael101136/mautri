@@ -5,17 +5,17 @@ class Imagenes extends CI_Controller {/* Mantenimiento de division funcional y g
 
   public function __construct(){
       parent::__construct();
-      //$this->load->model("Cuartel_model");
+      $this->load->model("Imagen_Model");
 
   }
 
   public function Imagenes()
   {
 
-     //$listarCurteles = $this->Cuartel_model->get_cuartel();
+    $listaImagen=$this->Imagen_Model->ImagenListar();
      
       $this->load->view('layout/admin/header');
-      $this->load->view('admin/Imagenes/imagenes');
+      $this->load->view('admin/Imagenes/imagenes', ['listaImagen'=>$listaImagen]);
       $this->load->view('layout/admin/footer');
   }
    public  function insertar()

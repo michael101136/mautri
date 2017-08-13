@@ -32,6 +32,21 @@
                                                 <th class="col-md-1"></th>
                                             </tr>
                                         </thead>
+                                            <tbody>
+                                                <?php foreach($listaImagen as $item ){ ?>
+                                                    <tr>
+                                                        <td>
+                                                            <?=$item->nombre?>
+                                                        </td>
+                                                        <td>
+                                                            <?=$item->descripcion?>
+                                                        </td>
+                                                        <td>
+                                                            <button type='button' class='eliminar btn btn-danger btn-xs' onclick=""><i class='fa fa-trash-o'></i></button>
+                                                        </td>
+                                                  </tr>
+                                                <?php } ?>
+                                            </tbody>
                                     </table>
                                 </div>
                             </div>
